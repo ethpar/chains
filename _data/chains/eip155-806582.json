@@ -1,7 +1,7 @@
 {
     "name": "Ethpar Testnet",
     "chain": "ETP",
-    "rpc": ["rpc82.testnet.ethpar.net/"],
+    "rpc": ["https://rpc82.testnet.ethpar.net/"],
     "faucets": [],
     "nativeCurrency": {
       "name": "Ethpar",
@@ -15,7 +15,7 @@
     "networkId": 806582,
     "icon": "ethpar",
     "explorers": [{
-      "name": "Ethpar Tesnet Explorer",
+      "name": "Ethpar Testnet Explorer",
       "url": "https://dora.testnet.ethpar.net",
       "icon": "ethpar",
       "standard": "EIP3091"
